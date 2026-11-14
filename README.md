@@ -1,3 +1,7 @@
+> **English summary.** Computer vision models that outline cultivated fields in southern Brazil and estimate the area of each field, built for A de Agro. The repository documents experiments with U-Net, ResUNet and transfer learning.
+>
+> Team project from my Computer Science degree at Inteli (2024). This is a fork of the original repository; the documentation below is in Portuguese.
+
 <table>
 <tr>
 <td>
